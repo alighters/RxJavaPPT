@@ -13,11 +13,12 @@ usemathjax: yes
 
 - Talk is cheap, show me the code. {:&.fadeIn}
 - Read the fucking source code. 
+
 by David
 
 [slide]
 ##函数式编程
-+ 三大特性 {:&.fadeIn}
++ 三大特性 {:&.zoomIn}
  - immutable data 不可变数据 {:&.fadeIn}
  - first class functions 
  - 尾递归优化
